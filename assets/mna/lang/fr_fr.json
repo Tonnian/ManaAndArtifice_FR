@@ -281,10 +281,10 @@
   "item.mna.broken_leggings": "Jambières Endommagées",
   "item.mna.broken_boots": "Bottes Endommagées",
   "item.mna.broken_repair_prompt": "Cette armure est brisée, mais tout n'est pas perdu !  Apportez-la à une enclume runique et réparez-la avec de la soie infusée et un set de couture sorcier.",
-  "item.mna.mage_hood": "Mage Hood",
-  "item.mna.mage_robes": "Mage Robes",
-  "item.mna.mage_leggings": "Mage Leggings",
-  "item.mna.mage_boots": "Mage Boots",
+  "item.mna.mage_hood": "Capuche de Mage",
+  "item.mna.mage_robes": "Robe de Mage",
+  "item.mna.mage_leggings": "Jambières de Mage",
+  "item.mna.mage_boots": "Bottes de Mage",
 
   "item.mna.bone_armor_head": "Casque en Os de Wither",
   "item.mna.bone_armor_chest": "Cuirasse en Os de Wither",
@@ -784,7 +784,7 @@
   "block.mna.occulus": "Occulus",
   "block.mna.occulus.confusion": "Vous regardez le cristal flottant et sentez que votre conscience est attirée par lui.  Vous fermez rapidement les yeux et vous vous détournez.  Vous devrez en apprendre davantage sur cet étrange appareil avant de pouvoir l'utiliser.",
 
-  "block.mna.warding_candle": "Warding Candle",
+  "block.mna.warding_candle": "Bougie de protection",
   "block.mna.transitory_tunnel": "Tunnel transitoire",
   "block.mna.chalk_rune": "Rune rituelle",
   "block.mna.transitory_tile": "Tuile transitoire",
